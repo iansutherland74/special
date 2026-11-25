@@ -1,0 +1,15 @@
+HASURA_GRAPHQL_HTTP_ENDPOINT=https://graphql.specialrequest.app/v1/graphql
+HASURA_GRAPHQL_WS_ENDPOINT=wss://graphql.specialrequest.app/v1/graphql
+SERVER_ENDPOINT=https://api.specialrequest.app
+EVENT_WEB_BASE_URL=https://web.specialrequest.app
+ADMOB_ID_IOS=ca-app-pub-3497480984151199/6504397663
+ADMOB_ID_ANDROID=ca-app-pub-3497480984151199/9705916700
+FIREBASE_APP_ID=specialrequest-prod-cb83d
+GOOGLE_AUTH_CLIENT_ID=18902503096-ojuk7dep5follsjggnqg5nvmfd1ubsjc.apps.googleusercontent.com
+ENV=PROD
+STRIPE_PUBLISHABLE_KEY=pk_live_51S6pYDHIgkK0PPuC5hRJY977B7u1pA38qjwgvee9OY9LDYxQwisJy5u8nCgxv9yvoNR1Os646rsNnpn4EBH0v5kc00rvpa18la
+RC_PURCHASE_LINK=https://pay.rev.cat/gmnavgyyikazwiox
+RC_WEB_API_KEY=rcb_TnJcYXgGMVyXlWYhNvHtvDWojdRf
+SPA_BASE_URL=https://specialrequest.app
+ADMOB_BANNER_ID_IOS=ca-app-pub-3497480984151199/6938850308
+ADMOB_BANNER_ID_ANDROID=ca-app-pub-3497480984151199/8004519960
